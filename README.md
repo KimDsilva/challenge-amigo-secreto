@@ -40,5 +40,4 @@ npm start
 Tecnologías utilizadas
 Este proyecto fue desarrollado con:
 HTML, CSS y JavaScript
-Node.js (si aplica)
 Git & GitHub
