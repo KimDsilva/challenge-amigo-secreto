@@ -11,7 +11,6 @@ Evitar que alguien se asigne a sí mismo.
 El código está organizado de la siguiente manera:
 📁 src/ → Código principal de la aplicación.
 📁 assets/ → Imágenes y archivos de diseño.
-📁 docs/ → Documentación adicional (si aplica).
 
 🔧 Instalación y uso
 Si quieres probarlo en tu máquina, sigue estos pasos:
