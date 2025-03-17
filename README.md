@@ -21,7 +21,7 @@ Clona el repositorio:
 bash
 Copiar
 Editar
-git clone https://github.com/tuusuario/tu-repo.git
+git clone https://github.com/KimDsilva/challenge-amigo-secreto.git
 cd tu-repo
 Instala las dependencias:
 
